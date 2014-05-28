@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1398671057 source:/home/ge/CS4560/MyShell/main.c
+	<stdio.h>
+	<unistd.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<signal.h>
+
